@@ -1,2 +1,2 @@
-# people-counter-trial
+# peopel counter project
 
